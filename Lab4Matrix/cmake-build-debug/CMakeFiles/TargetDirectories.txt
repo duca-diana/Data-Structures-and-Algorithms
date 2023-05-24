@@ -1,0 +1,3 @@
+/Users/dianaduca/CLionProjects/Lab4Matrix/cmake-build-debug/CMakeFiles/Lab4Matrix.dir
+/Users/dianaduca/CLionProjects/Lab4Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dianaduca/CLionProjects/Lab4Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
